@@ -1,0 +1,21 @@
+Boss, Netbeans，Eclipse，
+Dev C++, Wiresharp,
+Packet Tracer, TEJ, GNU
+Octave,
+QGIS,QGIS,Notepad++,
+Goldwave,
+Gvim,Mblock-win, Virtual
+Box, ADT, JDK, XAMPP,
+os comerer, php,
+Python, R 語言, B 語言,
+Rstudio , ZEROXIII,
+Virtual Box, putty,
+VMWare Workstation,
+Intuos Art, Unity 3D,
+Wireshark, Java, Putty,
+opencv,
+App Inventor, Android
+Studio, Anaconda，
+osCommerce. Atom,
+Uniform Server ZeroXIII,
+HeidiSQL,
